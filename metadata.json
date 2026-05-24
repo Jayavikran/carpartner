@@ -1,0 +1,6 @@
+{
+  "name": "Car Partner Management",
+  "description": "A centralized digital platform for managing used car partnership purchases, vehicle investments, maintenance expenses, sales, documents, and settlements with automated reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
